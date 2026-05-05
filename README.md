@@ -39,7 +39,7 @@ How To Reach Me      : mdonikmia88@gmail.com
 ## 🚀 Featured Projects
 
 <a href="https://github.com/mdonikmia/voltsight-bi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdonikmia&repo=voltsight-bi&theme=react&bg_color=0d1117&title_color=00c48c&icon_color=00c48c&text_color=c9d1d9&border_color=1e3a5f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdonikmia&repo=voltsight-bi&theme=tokyonight&show_owner=true" />
 </a>
 
 | Project | Description | Stack | Status |
@@ -101,7 +101,7 @@ How To Reach Me      : mdonikmia88@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdonikmia&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mdonikmia&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
