@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Onik%20Mia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Cybersecurity&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20ONIK%20MIA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Cybersecurity&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C48C&center=true&vCenter=true&random=false&width=600&lines=BSc+Information+Technology+%7C+UWE+Bristol;Data+Analytics+%26+Business+Intelligence;Machine+Learning+%26+Feature+Engineering;Cybersecurity+%26+Risk+Framework+Design;Open+to+UK+Graduate+Roles+%F0%9F%87%AC%F0%9F%87%A7)](https://git.io/typing-svg)
@@ -116,7 +116,7 @@ skills = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Onik%20Mia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-onik-mia-643322385/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20ONIK%20MIA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-onik-mia-643322385/)
 [![Email](https://img.shields.io/badge/Email-mdonikmia88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdonikmia88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mdonikmia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdonikmia)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-VoltSight%20BI-00C48C?style=for-the-badge&logo=streamlit&logoColor=white)](https://voltsight-bi.streamlit.app)
