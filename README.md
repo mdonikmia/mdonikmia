@@ -157,7 +157,7 @@ profile = {
 |---------|---------|---------|
 | 🔒 [SCRPM Cybersecurity Framework](https://github.com/mdonikmia/scrpm-framework) | UK Education sector · DSIT/NCSC/ICO data | Risk priority scoring model · 15 tests |
 | 🚗 Rideshare Surge Prediction | 693,000+ records | Feature engineering + ML model |
-| ⚡ AI Energy Demand Forecasting | Weather API + demand data | Time-series forecasting model |
+| 🌤️ AI Energy Demand Forecasting | Weather API + demand data | Time-series forecasting model |
 | ⚡ VoltSight BI | 52,847 UK charger locations | Live BI platform + priority score |
 
 ---
