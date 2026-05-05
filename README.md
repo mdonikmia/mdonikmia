@@ -93,20 +93,21 @@ How To Reach Me      : mdonikmia88@gmail.com
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdonikmia&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonikmia&layout=compact&theme=radical&langs_count=6&cache_seconds=1800" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdonikmia&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonikmia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdonikmia&theme=radical&cache_seconds=1800)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdonikmia&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdonikmia&bg_color=0d1117&color=00c48c&line=00c48c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdonikmia&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
