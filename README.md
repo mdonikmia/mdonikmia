@@ -93,9 +93,9 @@ How To Reach Me      : mdonikmia88@gmail.com
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdonikmia&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdonikmia&theme=tokyonight" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonikmia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdonikmia&theme=tokyonight" />
 
 </div>
 
