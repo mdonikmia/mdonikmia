@@ -45,9 +45,9 @@ How To Reach Me      : mdonikmia88@gmail.com
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | ⚡ **[VoltSight BI](https://github.com/mdonikmia/voltsight-bi)** | EV charging infrastructure analytics · Medallion Architecture · 618K+ sessions | Python · Streamlit · Plotly · Parquet | [![Live](https://img.shields.io/badge/LIVE-00c48c?style=flat)](https://voltsight-bi.streamlit.app) |
-| 🔒 **[SCRPM Framework](https://github.com/mdonikmia/scrpm-framework)** | Safeguarding-Centric Risk Priority Matrix · 15 unit tests · DSIT/NCSC/ICO data | Python · DSR · NCSC-aligned | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/mdonikmia/scrpm-framework) |
-| 🚗 **Rideshare Surge Prediction** | ML model on 693K+ records · Feature engineering · Model evaluation | Python · Scikit-Learn · Pandas | ✅ Complete |
-| ⚡ **Energy Demand Forecasting** | AI-driven forecast with live weather API integration | Python · Time-series · REST APIs | ✅ Complete |
+| 🔒 **[SCRPM Framework](https://github.com/mdonikmia/scrpm-framework)** | Safeguarding-Centric Risk Priority Matrix · 15 unit tests · DSIT/NCSC/ICO data | Python · DSR · NCSC-aligned | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/mdonikmia/scrpm-framework) [![Dissertation](https://img.shields.io/badge/Dissertation-UWE-FF6B35?style=flat)](https://github.com/mdonikmia/scrpm-framework) |
+| 🚗 **Rideshare Surge Prediction** | Team project · ML model on 693K+ records · Feature engineering · Model evaluation | Python · Scikit-Learn · Pandas | 👥 Team Project |
+| ⚡ **Energy Demand Forecasting** | Team project · AI-driven forecast with live weather API integration | Python · Time-series · REST APIs | 👥 Team Project |
 
 ---
 
@@ -155,7 +155,7 @@ profile = {
 
 | Project | Dataset | Outcome |
 |---------|---------|---------|
-| 🔒 SCRPM Cybersecurity Framework | UK Education sector | Risk priority scoring model |
+| 🔒 [SCRPM Cybersecurity Framework](https://github.com/mdonikmia/scrpm-framework) | UK Education sector · DSIT/NCSC/ICO data | Risk priority scoring model · 15 tests |
 | 🚗 Rideshare Surge Prediction | 693,000+ records | Feature engineering + ML model |
 | ⚡ AI Energy Demand Forecasting | Weather API + demand data | Time-series forecasting model |
 | ⚡ VoltSight BI | 52,847 UK charger locations | Live BI platform + priority score |
