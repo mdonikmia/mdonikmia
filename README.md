@@ -26,7 +26,7 @@ Previously spent **5+ years in digital marketing and SEO**, which means I bring 
 ## 🔭 What I'm Up To
 
 ```yaml
-Currently Working On : VoltSight BI — EV Infrastructure Analytics Platform
+Currently Working On : VoltSight BI (Live) + SCRPM Framework (Published)
 Currently Learning   : dbt (data build tool), Apache Airflow, Power BI DAX
 Looking For          : Data Analyst / BI / Cybersecurity roles in UK 🇬🇧
 Ask Me About         : Python, ETL Pipelines, Streamlit, Risk Frameworks
@@ -45,7 +45,7 @@ How To Reach Me      : mdonikmia88@gmail.com
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | ⚡ **[VoltSight BI](https://github.com/mdonikmia/voltsight-bi)** | EV charging infrastructure analytics · Medallion Architecture · 618K+ sessions | Python · Streamlit · Plotly · Parquet | [![Live](https://img.shields.io/badge/LIVE-00c48c?style=flat)](https://voltsight-bi.streamlit.app) |
-| 🔒 **SCRPM Framework** | Safeguarding-Centric Risk Priority Matrix for UK education · NCSC-grounded | Python · Design Science Research | ✅ Complete |
+| 🔒 **[SCRPM Framework](https://github.com/mdonikmia/scrpm-framework)** | Safeguarding-Centric Risk Priority Matrix · 15 unit tests · DSIT/NCSC/ICO data | Python · DSR · NCSC-aligned | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/mdonikmia/scrpm-framework) |
 | 🚗 **Rideshare Surge Prediction** | ML model on 693K+ records · Feature engineering · Model evaluation | Python · Scikit-Learn · Pandas | ✅ Complete |
 | ⚡ **Energy Demand Forecasting** | AI-driven forecast with live weather API integration | Python · Time-series · REST APIs | ✅ Complete |
 
