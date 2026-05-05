@@ -93,14 +93,14 @@ How To Reach Me      : mdonikmia88@gmail.com
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdonikmia&show_icons=true&theme=react&bg_color=0d1117&title_color=00c48c&icon_color=00c48c&text_color=c9d1d9&border_color=1e3a5f&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonikmia&layout=compact&theme=react&bg_color=0d1117&title_color=00c48c&icon_color=00c48c&text_color=c9d1d9&border_color=1e3a5f&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdonikmia&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdonikmia&layout=compact&theme=radical&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdonikmia&theme=react&background=0d1117&border=1e3a5f&ring=00c48c&fire=ff9800&currStreakLabel=00c48c&sideLabels=8aaccc&dates=8aaccc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdonikmia&theme=radical&cache_seconds=1800)](https://git.io/streak-stats)
 
 </div>
 
